@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/groovy-2.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/groovy-json-2.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/groovy-xml-2.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/json-path-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/rest-assured-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/rest-assured-common-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaydpate/Selenium/Rest Assured 4.2.0/xml-path-4.2.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
